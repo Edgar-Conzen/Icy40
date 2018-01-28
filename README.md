@@ -1,6 +1,6 @@
 ## Welcome to Icy40
 
-![Image](Icy40-Logo.gif)
+![Image](Icy40-Logo.gif){:height="100px" width="100px"}
 
 [Icy40-Logo](Icy40-Logo.gif)
 
