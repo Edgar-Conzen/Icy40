@@ -1,8 +1,7 @@
 ## Welcome to Icy40
 
-![Image](Icy40-Logo.gif){:height="100px" width="100px"}
+![Image](Icy40-Logo-Small.png)
 
-[Icy40-Logo](Icy40-Logo.gif)
 
 You can use the [editor on GitHub](https://github.com/Edgar-Conzen/Icy40/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
