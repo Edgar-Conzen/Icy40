@@ -1,4 +1,4 @@
-## Welcome to Icy40
+## Welcome to ICY40
 
 ![Image](/pics/Icy40-Logo-Small.png)
 
