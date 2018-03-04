@@ -1,5 +1,3 @@
-## Welcome to ICY40
-
 ![Image](/pics/Icy40-Logo-Small.png)
 
 
